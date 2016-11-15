@@ -4,7 +4,7 @@
   "description": "bot for microsoft chats",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "app.js"
   },
   "author": "Nixon Ball",
   "license": "ISC",
@@ -12,4 +12,13 @@
     "botbuilder": "^3.4.4",
     "restify": "^4.3.0"
   }
+  "engines": {
+    "node": "4.4.7"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
