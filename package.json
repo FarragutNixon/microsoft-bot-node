@@ -4,7 +4,7 @@
   "description": "bot for microsoft chats",
   "main": "index.js",
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   },
   "author": "Nixon Ball",
   "license": "ISC",
